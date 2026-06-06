@@ -1,19 +1,19 @@
 <!--
   GitHub Profile README — Editorial / Newspaper Style
-  Profile repo target: drclassy/drclassy
+  Profile repo target: codieverse/codieverse
   Suggested filename: README.md
 -->
 
 <table width="100%">
 <tr>
 <td width="36%" align="center" valign="middle">
-<img src="https://i.postimg.cc/65j4NjjQ/Mascot.jpg" alt="dr. Ferdi Iskandar" width="250">
+<img src="https://i.postimg.cc/Y2Z6CBzh/Chat-GPT-Image-Jun-6-2026-11-43-05-PM.png" alt="dr. Ferdi Iskandar" width="250">
   <br />
-  <sub><b>dr Classy</b> · Proud Public Servant</sub>
+  <sub><b>dr codieverse</b> · Proud Public Servant</sub>
 </td>
 <td width="64%" valign="middle">
 
-# I'm Classy
+# I'm codieverse
 
 ### Healthcare Artificial Intelligence · Clinical Systems · Indonesian Medical Infrastructure
 
@@ -37,7 +37,7 @@
 
 ## ── FRONT PAGE · WHO I AM
 
-I am **dr Classy**, an hospital CEO, physician-founder building **Sentra Artificial Intelligence**: a healthcare AI ecosystem focused on clinical reasoning, medical workflow automation, patient journey intelligence, and Indonesian healthcare infrastructure.
+I am **dr codieverse**, an hospital CEO, physician-founder building **Sentra Artificial Intelligence**: a healthcare AI ecosystem focused on clinical reasoning, medical workflow automation, patient journey intelligence, and Indonesian healthcare infrastructure.
 
 My work sits at the intersection of clinical judgment, AI infrastructure, and real-world hospital operations.
 
@@ -627,7 +627,7 @@ A healthcare referral and routing surface with diagnosis endpoint concepts, sema
   <a href="https://www.linkedin.com/in/dr-ferdi-iskandar-1b620a3b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://g.dev/classyy" target="_blank">
+  <a href="https://g.dev/codieversey" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev" />
   </a>
   <a href="https://x.com/ClaudesyI81047" target="_blank">
